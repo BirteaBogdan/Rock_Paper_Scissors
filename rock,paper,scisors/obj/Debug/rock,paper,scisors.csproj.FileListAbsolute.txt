@@ -1,0 +1,7 @@
+C:\Users\herbi\OneDrive\Desktop\PRACTICA IBM\rock,paper,scisors\rock,paper,scisors\obj\Debug\rock,paper,scisors.csproj.CoreCompileInputs.cache
+C:\Users\herbi\OneDrive\Desktop\PRACTICA IBM\rock,paper,scisors\rock,paper,scisors\bin\Debug\rock,paper,scisors.exe.config
+C:\Users\herbi\OneDrive\Desktop\PRACTICA IBM\rock,paper,scisors\rock,paper,scisors\bin\Debug\rock,paper,scisors.exe
+C:\Users\herbi\OneDrive\Desktop\PRACTICA IBM\rock,paper,scisors\rock,paper,scisors\bin\Debug\rock,paper,scisors.pdb
+C:\Users\herbi\OneDrive\Desktop\PRACTICA IBM\rock,paper,scisors\rock,paper,scisors\obj\Debug\rock,paper,scisors.exe
+C:\Users\herbi\OneDrive\Desktop\PRACTICA IBM\rock,paper,scisors\rock,paper,scisors\obj\Debug\rock,paper,scisors.pdb
+C:\Users\herbi\OneDrive\Desktop\PRACTICA IBM\rock,paper,scisors\rock,paper,scisors\obj\Debug\rock,paper,scisors.csprojResolveAssemblyReference.cache
